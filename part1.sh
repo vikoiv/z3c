@@ -37,7 +37,7 @@ sudo apt-get -y install lintian
 ./zcutil/build-debian-package.sh
 
 # install zcash
-sudo dpkg -i zcash-1.0.4-sprout-amd64.deb
+sudo dpkg -i zcash-1.0.4-amd64.deb
 
 echo "---------------"
 echo "installing node and npm"
