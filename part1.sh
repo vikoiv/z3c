@@ -17,7 +17,7 @@ sudo apt-get -y install \
       zlib1g-dev wget bsdmainutils automake
 
 # download zcash source from fork with block explorer patches
-git clone https://github.com/vikoiv/zcash.git
+git clone https://github.com/str4d/zcash
 
 cd zcash
 
