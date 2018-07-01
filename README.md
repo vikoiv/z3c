@@ -3,7 +3,7 @@ zcash insight
 
 zcash-block-explorer
 
-Script to install and setup a zcash block explorer on Ubuntu 16.04.
+Script to install and setup a zcash block explorer on Ubuntu 16.04 Server.
 
 On a fresh Ubuntu 16.04 server, from a non-root user's home directory, run the following commands:
 
