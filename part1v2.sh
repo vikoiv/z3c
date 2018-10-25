@@ -21,7 +21,7 @@ git clone https://github.com/vikoiv/zcash-patched-for-explorer zcash
 
 cd zcash
 
-# switch to sprout version of source code; this will change in the future
+# switch to sprout version of source code; this will change in the future.
 git checkout v2.0.1-insight-explorer
 
 # download proving parameters
