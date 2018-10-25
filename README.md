@@ -9,7 +9,7 @@ On a fresh Ubuntu 16.04 server, from a non-root user's home directory, run the f
 
 sudo apt-get update
 
-wget https://raw.githubusercontent.com/vikoiv/z3c/master/part1v2.sh
+wget https://raw.githubusercontent.com/vikoiv/z3c/sapling-explorer/part1v2.sh
 
 bash part1v2.sh
 
@@ -21,4 +21,4 @@ The block explorer will be available on http://localhost:3001/insight/ and any a
 
 All actions performed by the script are thouroughly commented.
 
-Blockchain explorer patches for zcashd by @str4d. Modified version from @radix42 scripts.
+Blockchain explorer patches for zcashd by @zcash-hackworks. Modified version from @radix42 scripts.
