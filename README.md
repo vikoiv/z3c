@@ -9,7 +9,7 @@ On a fresh Ubuntu 16.04 server, from a non-root user's home directory, run the f
 
 sudo apt-get update
 
-wget https://raw.githubusercontent.com/vikoiv/z3c/sapling-explorer/part1v2.sh
+wget https://raw.githubusercontent.com/vikoiv/z3c/sapling-explorerv2/part1v2.sh
 
 bash part1v2.sh
 
