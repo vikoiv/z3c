@@ -9,7 +9,7 @@ On a fresh Ubuntu 16.04 server, from a non-root user's home directory, run the f
 
 sudo apt-get update
 
-wget https://raw.githubusercontent.com/vikoiv/z3c/master/part1.sh
+wget https://raw.githubusercontent.com/vikoiv/z3c/1.0_explorer/part1.sh
 
 bash part1.sh
 
