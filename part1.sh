@@ -3,7 +3,7 @@
 echo "downloading part2"
 echo
 
-wget https://raw.githubusercontent.com/vikoiv/z3c/sapling-explorer/part2v2.sh
+wget https://raw.githubusercontent.com/vikoiv/z3c/1.2_sapling-explorer/part2.sh
 
 echo "---------------"
 # Install zcash dependencies:
