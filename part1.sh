@@ -3,7 +3,7 @@
 echo "downloading part2"
 echo
 
-wget https://raw.githubusercontent.com/vikoiv/z3c/master/part2.sh
+wget https://raw.githubusercontent.com/vikoiv/z3c/1.0_explorer/part2.sh
 
 echo "---------------"
 # Install zcash dependencies:
