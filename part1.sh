@@ -37,7 +37,7 @@ sudo apt-get -y install lintian
 ./zcutil/build-debian-package.sh
 
 # install zcash
-sudo dpkg -i zcash-2.0.2-*-amd64.deb
+sudo dpkg -i zcash-2.0.1-4e1c255-amd64.deb
 
 echo "---------------"
 echo "installing node and npm"
@@ -58,4 +58,4 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" # This loads nvm
 
 echo "logout of this shell, log back in and run:"
-echo "bash part2v2.sh"
+echo "bash part2.sh"
