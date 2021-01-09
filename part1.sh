@@ -11,10 +11,10 @@ echo "---------------"
 echo "installing zcash"
 echo
 
-sudo apt-get -y install \
-      build-essential pkg-config libc6-dev m4 g++-multilib \
-      autoconf libtool ncurses-dev unzip git python \
-      zlib1g-dev wget bsdmainutils automake
+sudo apt-get install \
+build-essential pkg-config libc6-dev m4 g++-multilib \
+autoconf libtool ncurses-dev unzip git python3 python3-zmq \
+zlib1g-dev curl bsdmainutils automake libtinfo5
 
 # download zcash source from fork with block explorer patches
 git clone https://github.com/vikoiv/zcash-patched-for-explorer zcash
